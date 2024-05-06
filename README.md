@@ -1,5 +1,7 @@
 I'm computational scientist in the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory working on the development and implementation of accurate and efficient time integration methods and nonlinear solvers for simulating multiscale, multiphysics applications on high performance computing systems.
 
+A full list publications can also be found on [Google Scholar](https://scholar.google.com/citations?user=EZ6pyMIAAAAJ).
+
 <!--
 **gardner48/gardner48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
