@@ -2,7 +2,7 @@ I'm computational scientist in the [Center for Applied Scientific Computing](htt
 
 For a list of publications, visit [Google Scholar](https://scholar.google.com/citations?user=EZ6pyMIAAAAJ).
 
-Preprints are available on [arXiv](https://arxiv.org/search/?searchtype=author&query=Gardner%2C+D+J).
+Preprints are available on [arXiv](https://arxiv.org/a/0000-0002-7993-8282.html).
 
 <!--
 **gardner48/gardner48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
